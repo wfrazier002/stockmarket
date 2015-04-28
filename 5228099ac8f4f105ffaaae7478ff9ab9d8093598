@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_d15de516",
+        "filename": "marketHistory",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004804
+      },
+      "writtenOn": "2015-04-28T15:10:08Z",
+      "side": 1,
+      "message": "Make this a private variable. No need for it to be public.",
+      "range": {
+        "startLine": 16,
+        "startChar": 1,
+        "endLine": 16,
+        "endChar": 7
+      },
+      "revId": "5228099ac8f4f105ffaaae7478ff9ab9d8093598",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_71a4f107",
+        "filename": "marketHistory",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1004804
+      },
+      "writtenOn": "2015-04-28T15:10:08Z",
+      "side": 1,
+      "message": "Also make private.",
+      "range": {
+        "startLine": 17,
+        "startChar": 4,
+        "endLine": 17,
+        "endChar": 14
+      },
+      "revId": "5228099ac8f4f105ffaaae7478ff9ab9d8093598",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
