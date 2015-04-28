@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_f1490161",
+        "filename": "trader",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1004804
+      },
+      "writtenOn": "2015-04-28T15:08:05Z",
+      "side": 1,
+      "message": "Super isn\u0027t necessary here.",
+      "range": {
+        "startLine": 23,
+        "startChar": 2,
+        "endLine": 23,
+        "endChar": 9
+      },
+      "revId": "cd0c1a28d54bb95e2eb5ba7d8b736b1c52c34e2c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
