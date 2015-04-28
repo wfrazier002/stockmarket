@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_47865714",
+        "filename": "trader",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1004799
+      },
+      "writtenOn": "2015-04-28T19:05:13Z",
+      "side": 1,
+      "message": "remove white space",
+      "revId": "da8f5d7e79dc6dd886cf7529f2955c05955d7f9e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
