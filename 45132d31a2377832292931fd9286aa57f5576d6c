@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_627b817b",
+        "filename": "marketHistory",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1004739
+      },
+      "writtenOn": "2015-04-28T21:04:33Z",
+      "side": 1,
+      "message": "We don\u0027t need super here for no super class",
+      "revId": "45132d31a2377832292931fd9286aa57f5576d6c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_42800546",
+        "filename": "marketHistory",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1004739
+      },
+      "writtenOn": "2015-04-28T21:04:33Z",
+      "side": 1,
+      "message": "vague name m",
+      "revId": "45132d31a2377832292931fd9286aa57f5576d6c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
