@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_dd696fbf",
+        "filename": "trader",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:43:18Z",
+      "side": 1,
+      "message": "Remove non-descriptive comment.",
+      "range": {
+        "startLine": 27,
+        "startChar": 1,
+        "endLine": 27,
+        "endChar": 17
+      },
+      "revId": "e26f2a8bc49075f0b36fdadf5ba2a352b8bb97f4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_bd6633eb",
+        "filename": "trader",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:43:18Z",
+      "side": 1,
+      "message": "Remove non-descriptive comment.",
+      "range": {
+        "startLine": 45,
+        "startChar": 1,
+        "endLine": 45,
+        "endChar": 17
+      },
+      "revId": "e26f2a8bc49075f0b36fdadf5ba2a352b8bb97f4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
