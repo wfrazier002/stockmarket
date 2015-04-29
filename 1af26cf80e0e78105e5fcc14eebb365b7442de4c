@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_46893074",
+        "filename": "trader",
+        "patchSetId": 4
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:33:02Z",
+      "side": 1,
+      "message": "Consider removing this commented out code",
+      "revId": "1af26cf80e0e78105e5fcc14eebb365b7442de4c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
