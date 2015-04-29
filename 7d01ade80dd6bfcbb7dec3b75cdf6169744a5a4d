@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_66eb8c13",
+        "filename": "client",
+        "patchSetId": 3
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:35:38Z",
+      "side": 1,
+      "message": "Remove TODO comment",
+      "revId": "7d01ade80dd6bfcbb7dec3b75cdf6169744a5a4d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_068bb868",
+        "filename": "client",
+        "patchSetId": 3
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:35:38Z",
+      "side": 1,
+      "message": "Remove TODO comment",
+      "revId": "7d01ade80dd6bfcbb7dec3b75cdf6169744a5a4d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_268eb479",
+        "filename": "client",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:35:38Z",
+      "side": 1,
+      "message": "Remove TODO comment",
+      "revId": "7d01ade80dd6bfcbb7dec3b75cdf6169744a5a4d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
