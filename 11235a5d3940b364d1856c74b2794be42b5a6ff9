@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_463e508d",
+        "filename": "market",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:38:43Z",
+      "side": 1,
+      "message": "Should be a private variable",
+      "revId": "11235a5d3940b364d1856c74b2794be42b5a6ff9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_6639cca3",
+        "filename": "market",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1004805
+      },
+      "writtenOn": "2015-04-29T19:38:43Z",
+      "side": 1,
+      "message": "Should be private variable",
+      "revId": "11235a5d3940b364d1856c74b2794be42b5a6ff9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
