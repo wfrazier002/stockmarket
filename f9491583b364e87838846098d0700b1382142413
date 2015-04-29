@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_9da377ff",
+        "filename": "client",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:44:58Z",
+      "side": 1,
+      "message": "Vague variable name. Maybe \u0027market1\u0027 instead?",
+      "range": {
+        "startLine": 19,
+        "startChar": 9,
+        "endLine": 19,
+        "endChar": 11
+      },
+      "revId": "f9491583b364e87838846098d0700b1382142413",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
