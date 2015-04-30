@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_76fcd572",
+        "filename": "trader",
+        "patchSetId": 6
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T03:47:21Z",
+      "side": 1,
+      "message": "you may delete this comment",
+      "range": {
+        "startLine": 68,
+        "startChar": 3,
+        "endLine": 68,
+        "endChar": 5
+      },
+      "revId": "18d31c19cee72ad697e3b9f60d12b9e8be027cfd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_f6ef25af",
+        "filename": "trader",
+        "patchSetId": 6
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T03:47:21Z",
+      "side": 1,
+      "message": "you may change this variable to a more meaningful name",
+      "range": {
+        "startLine": 74,
+        "startChar": 11,
+        "endLine": 74,
+        "endChar": 15
+      },
+      "revId": "18d31c19cee72ad697e3b9f60d12b9e8be027cfd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_967511cd",
+        "filename": "trader",
+        "patchSetId": 6
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T03:47:21Z",
+      "side": 1,
+      "message": "May be changed to volumeStockOwned for sizeStockOwned to avoid confusing",
+      "range": {
+        "startLine": 75,
+        "startChar": 7,
+        "endLine": 75,
+        "endChar": 24
+      },
+      "revId": "18d31c19cee72ad697e3b9f60d12b9e8be027cfd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_36141d9f",
+        "filename": "trader",
+        "patchSetId": 6
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T03:47:21Z",
+      "side": 1,
+      "message": "These comments are not necessary, you can delete them",
+      "range": {
+        "startLine": 119,
+        "startChar": 2,
+        "endLine": 121,
+        "endChar": 30
+      },
+      "revId": "18d31c19cee72ad697e3b9f60d12b9e8be027cfd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
