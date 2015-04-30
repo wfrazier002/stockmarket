@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_80ae6b7f",
+        "filename": "trader",
+        "patchSetId": 5
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T01:13:44Z",
+      "side": 1,
+      "message": "Refactor the nested if statement \"if (cond1){..if (cond2){..}..}\" into one if statement with 2 conditions \"if (cond1 \u0026\u0026 cond2){..}\"",
+      "revId": "bebcc767eef05f0eba060bd90619ccbdcabf69e6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
