@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "1a106d94_60708fdc",
+        "filename": "util",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T01:12:23Z",
+      "side": 1,
+      "message": "Refactor nested if statement \"if (cond1){..if(cond2){..}..}\" by combining it with its parent if statement like so: \"if ((cond1) \u0026\u0026 cond2){..}\"",
+      "revId": "80eb28333c00f635ceacda524fb254aae40d4e33",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_1db7873b",
         "filename": "util",
         "patchSetId": 1
