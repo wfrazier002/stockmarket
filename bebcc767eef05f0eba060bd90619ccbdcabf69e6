@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "1a106d94_03a8c51e",
+        "filename": "trader",
+        "patchSetId": 5
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T02:09:08Z",
+      "side": 1,
+      "message": "The code is clear enough, consider remove the comments",
+      "range": {
+        "startLine": 100,
+        "startChar": 0,
+        "endLine": 101,
+        "endChar": 25
+      },
+      "revId": "bebcc767eef05f0eba060bd90619ccbdcabf69e6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_80ae6b7f",
         "filename": "trader",
         "patchSetId": 5
